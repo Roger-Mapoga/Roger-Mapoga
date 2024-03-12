@@ -9,3 +9,10 @@
 <a href="mailto:lehlogonolo.roger@gmail.com">
   <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<details>
+  <summary>
+    <a>Github Contribution Graph</a>
+  </summary>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Roger-Mapoga&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+</details>
