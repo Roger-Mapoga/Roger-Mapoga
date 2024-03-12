@@ -1,6 +1,10 @@
-<h1>Welcome! <a href="https://github.com/Roger-Mapoga"></a></h1>
+<h1>Hi, I'm Roger!</h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roger-Mapoga)
+<!-- <h3>I'm a Fullstack/Data Engineer</h3> -->
+<h3>Welcome.....</h3>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Roger-Mapoga)
+
 
 <h2>Certifications.</h2>
 
