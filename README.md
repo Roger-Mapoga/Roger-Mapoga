@@ -14,7 +14,7 @@
   <summary>
     <a>Github Contribution Graph</a>
   </summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Roger-Mapoga&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Roger-Mapoga&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a> -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roger-Mapoga)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roger-Mapoga)](https://github.com/ashutosh00710/github-readme-activity-graph)
