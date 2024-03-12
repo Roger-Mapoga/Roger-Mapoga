@@ -3,6 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roger-Mapoga)
 
 <h2>Certifications.</h2>
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
