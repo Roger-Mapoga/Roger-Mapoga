@@ -5,6 +5,8 @@
 <h2>Certifications.</h2>
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/7e1e7f05-f316-4ba8-ada7-bc07b30e794a "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/346cb3e2-d2f8-48b6-8854-9beac6f3e3b2 "AWS Certified Developer – Associate")
 <!--END_SECTION:badges-->
 
 <h2>Get in touch with me on the socials.</h2>
