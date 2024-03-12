@@ -3,6 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roger-Mapoga)
 
 <h2>Certifications.</h2>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <h2>Get in touch with me on the socials.</h2>
 <a href="https://www.linkedin.com/in/lehlogonolo-roger-mapoga/">
